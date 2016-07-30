@@ -4,4 +4,5 @@ Revision history for Dancer2-Plugin-Flash
         First version, released on an unsuspecting world.
 0.02    30/07/2016
         Update MANIFEST file.
-
+0.03    30/07/2016
+        Missing dependency.

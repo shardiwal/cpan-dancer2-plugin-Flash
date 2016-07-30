@@ -20,6 +20,7 @@ WriteMakefile(
         'HTTP::Request::Common' => 0,
     },
     PREREQ_PM => {
+        'Dancer2::Plugin' => 0
     },
     dist  => { COMPRESS => 'gzip -9f', SUFFIX => 'gz', },
     clean => { FILES => 'Dancer2-Plugin-Flash-*' },
